@@ -1,0 +1,34 @@
+body {
+    background-color: #2ed5ff;
+    font-family: Arial, sans-serif;
+    }
+    h1 {
+    color: #3297f5;
+    text-align: center;
+    }
+    p {
+    font-size: 16px;
+    line-height: 1.5;
+    text-align:justify;
+    }
+        
+    h3 {
+        color:mediumslateblue;
+        text-align:center;
+        font-size:xx-large;
+    }
+    footer {
+        background-color: cornflowerblue;
+        font-size: large;
+        font-style: italic;
+        line-height: 5cm;
+        min-height: 50vh;
+        padding: 10px 0;
+        
+    }
+    li{
+        list-style-type: decimal;
+    }
+    video{
+        margin-left: 320px; ;
+    }
